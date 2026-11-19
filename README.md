@@ -4,10 +4,10 @@
 
 <h1 align="center">FJ Sound Lab 🎧</h1>
 
-<p align="center"><b>DJ e sviluppatore di strumenti musicali</b></p>
+<p align="center"><b>DJ &amp; music software developer</b></p>
 
-Creo software per DJ che lavorano con l'intelligenza artificiale, direttamente sul computer.
+I build AI-powered tools for DJs that run right on your own computer.
 
-**Intro Edit**: intro e outro pronte da mixare, fatte con il brano stesso.
+**Intro Edit**: DJ-ready intros and outros, made from the track itself.
 
-*Presto anche online.*
+*Coming soon online.*
