@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/frank81blip.png" width="160" alt="FJ Sound Lab">
+  <img src="https://github.com/fjsoundlab.png" width="160" alt="FJ Sound Lab">
 </p>
 
 <h1 align="center">FJ Sound Lab 🎧</h1>
